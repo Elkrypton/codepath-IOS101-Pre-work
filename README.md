@@ -2,7 +2,7 @@
 
 Submitted by: **Sisi Wang**
 
-**Sample ISO with labels & button** is an app that show3 labels and a button to change the screen color... [TODO] 
+**Sample ISO with labels & button** is an app that show labels and a button to change the screen color. the screen color will be changed by clicked the change color button. 
 
 Time spent: **2** hours spent in total
 
@@ -20,10 +20,19 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+[] A list of my favorite App with the following features:
+    * Instagram
+        * Changing the background color of the messages screen
+        * Deleting old messages
+    * KakaoTalk
+        * Changing the backgound image of the messages screen
+        * Adding cute emojis
+        
+[] App idea for myself - To track or set up reminder for my learning journey 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+it's a challenge to add the functionality to the button. 
 
 ## License
 
