@@ -20,7 +20,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
-[] A list of my favorite App with the following features:
+- [x] A list of my favorite App with the following features:
     * Instagram
         * Changing the background color of the messages screen
         * Deleting old messages
@@ -28,7 +28,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
         * Changing the backgound image of the messages screen
         * Adding cute emojis
         
-[] App idea for myself - To track or set up reminder for my learning journey 
+- [x] App idea for myself - To track or set up reminder for my learning journey 
 
 ## Notes
 
