@@ -36,7 +36,7 @@ it's a challenge to add the functionality to the button.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2023 Sisi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
@@ -49,7 +49,4 @@ it's a challenge to add the functionality to the button.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-<<<<<<< HEAD
 
-=======
->>>>>>> c0334b6f0806a7e668e7cd5cec0144f5469bb278
